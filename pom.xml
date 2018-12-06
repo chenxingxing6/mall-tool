@@ -6,7 +6,7 @@
     <version>3.2.0</version>
     <packaging>pom</packaging>
 
-    <name>renren-security</name>
+    <name>mall-tool</name>
     <url>http://www.renren.io</url>
 
 	<parent>
@@ -19,7 +19,6 @@
         <module>renren-common</module>
         <module>renren-admin</module>
         <module>renren-api</module>
-        <module>renren-generator</module>
     </modules>
 
     <properties>
